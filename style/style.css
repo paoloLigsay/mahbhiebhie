@@ -44,6 +44,13 @@ div.fade {
   opacity: 0.1;
 }
 
+@media screen and (max-width: 767px) {
+  div.main {
+    background-position: 6vw 13vh;
+    background-size: 93vw;
+  }
+}
+
 @keyframes changePhoto {
   0% {
     background-image: url(../img/bw.png);

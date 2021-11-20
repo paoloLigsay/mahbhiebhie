@@ -48,6 +48,11 @@ div.fade {
   div.main {
     background-position: 6vw 13vh;
     background-size: 93vw;
+    font-size: 3.5px;
+  }
+
+  div.fade {
+    font-size: 3.5px;
   }
 }
 
